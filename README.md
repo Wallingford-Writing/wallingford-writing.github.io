@@ -1,7 +1,7 @@
-# walingford-writing.github.io
+# wallingford-writing.github.io
 
 The website for Wallingford Writing: the home page, privacy policy and support page used by the App Store and Google
-Play listings. Plain static HTML served by GitHub Pages at https://walingford-writing.github.io/; no build step.
+Play listings. Plain static HTML served by GitHub Pages at https://wallingford-writing.github.io/; no build step.
 
 - `index.html`: marketing page
 - `privacy.html`: privacy policy (the stores' "Privacy Policy URL")
